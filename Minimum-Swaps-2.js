@@ -7,8 +7,7 @@ function minimumSwaps(arr) {
             for(i=0;i<n;i++)
         
             {
-              var k=0;
-             // console.log(i);
+            
                 if(arr[i]!=(i+1))
                   {
         
